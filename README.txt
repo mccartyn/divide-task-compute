@@ -1,0 +1,1 @@
+This is a repository for a python class that will eventually allow you to pass it a for loop and at it will divide and utilize multi processing or cloud computing to finish the loop more quickly.
